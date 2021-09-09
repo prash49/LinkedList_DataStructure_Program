@@ -1,6 +1,5 @@
 package com.bridgelabz.linkedliist;
 
-
 public class Operations {
     public static LinkedList addDataAtStart() {
         LinkedList linkedList = new LinkedList();
@@ -34,8 +33,8 @@ public class Operations {
 
     public static void deleteFirstNode() {
         LinkedList linkedList = addDataAtStart();
-       linkedList.pop();
-       linkedList.print();
+        linkedList.pop();
+        linkedList.print();
     }
 
     public static void deleteLastNode() {

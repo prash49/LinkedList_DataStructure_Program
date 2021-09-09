@@ -79,7 +79,7 @@ public class LinkedList {
             }
         }
         if (flag == true) {
-            System.out.println(value + " is present at Index:" + index);
+            System.out.println("Value:" + value + " is present at Index:" + index);
         } else {
             System.out.println("Element no present");
         }
