@@ -1,4 +1,4 @@
-package com.bridgelabz.linkedliist;
+package com.bridgelabz.linkedlist;
 
 public class Node {
         public int data;

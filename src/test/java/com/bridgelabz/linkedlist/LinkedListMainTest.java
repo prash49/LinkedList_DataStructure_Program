@@ -1,4 +1,4 @@
-package com.bridgelabz.linkedliist;
+package com.bridgelabz.linkedlist;
 
 import static org.junit.Assert.assertTrue;
 
